@@ -1,0 +1,2 @@
+step,agent_pos_y,agent_pos_x,reward,penalty,alignment_bonus,distance_bonus
+1,218,375,-2.0,-2.0,0.0,0.0
